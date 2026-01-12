@@ -1,11 +1,7 @@
 Hello from the main branch
 
-<<<<<<< HEAD
 Add feature-a
 Add feature-b (WIP)
 
 new code that makes feature-b work! 
 Add feature-c
-=======
-Add feature-c (hold on, I'm still working on it...)
->>>>>>> b901a94 (WIP feature-c)
